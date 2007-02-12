@@ -1,5 +1,5 @@
 Summary:	Low Saxon dictionary for aspell
-Summary(pl):	S≥ownik dolnosaksoÒski dla aspella
+Summary(pl.UTF-8):   S≈Çownik dolnosakso≈Ñski dla aspella
 Name:		aspell-nds
 Version:	0.01
 %define	subv	0
@@ -16,8 +16,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 Low Saxon dictionary (i.e. word list) for aspell.
 
-%description -l pl
-S≥ownik dolnosaksoÒski (lista s≥Ûw) dla aspella.
+%description -l pl.UTF-8
+S≈Çownik dolnosakso≈Ñski (lista s≈Ç√≥w) dla aspella.
 
 %prep
 %setup -q -n aspell6-nds-%{version}-%{subv}
