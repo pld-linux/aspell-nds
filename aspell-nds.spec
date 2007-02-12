@@ -1,5 +1,5 @@
 Summary:	Low Saxon dictionary for aspell
-Summary(pl.UTF-8):   Słownik dolnosaksoński dla aspella
+Summary(pl.UTF-8):	Słownik dolnosaksoński dla aspella
 Name:		aspell-nds
 Version:	0.01
 %define	subv	0
