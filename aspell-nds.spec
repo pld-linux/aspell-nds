@@ -6,7 +6,7 @@ Version:	0.01
 Release:	1
 License:	GPL v2+
 Group:		Applications/Text
-Source0:	ftp://ftp.gnu.org/gnu/aspell/dict/nds/aspell6-nds-%{version}-%{subv}.tar.bz2
+Source0:	http://ftp.gnu.org/gnu/aspell/dict/nds/aspell6-nds-%{version}-%{subv}.tar.bz2
 # Source0-md5:	76b2b3f2bdeefdfc6ce75ae11c9ae149
 URL:		http://aspell.sourceforge.net/
 BuildRequires:	aspell >= 3:0.60
