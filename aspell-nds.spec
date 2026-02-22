@@ -3,7 +3,7 @@ Summary(pl.UTF-8):	Słownik dolnosaksoński dla aspella
 Name:		aspell-nds
 Version:	0.01
 %define	subv	0
-Release:	2
+Release:	3
 License:	GPL v2+
 Group:		Applications/Text
 Source0:	http://ftp.gnu.org/gnu/aspell/dict/nds/aspell6-nds-%{version}-%{subv}.tar.bz2
